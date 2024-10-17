@@ -1,4 +1,4 @@
-# Geoguessr Gameplay Analysis
+# Geoguessr Gameplay Analysis (in progress)
 
 ## Acknowledgments
 
